@@ -19,3 +19,6 @@ docker ps -a
 
 #This command display the images available, (from an image you can create a container)
 docker images
+
+
+*********************************************************************
